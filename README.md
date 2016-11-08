@@ -40,16 +40,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Highbury College (start_date to end_date)
 
-- Access to Biological and Biomedical Sciences
-- Pass
+- Access to Biological and Biomedical Sciences - Pass
 
-### Joseph Wright College (September 2009 to July 2010)
+#### Joseph Wright College (September 2009 to July 2010)
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**IBox Security** (start_date to end_date)    
+Software Developer
+
+**Self Employed** (start_date to end_date)
+Worked as a video game streamer on Twitch.tv
+
+**Axess Systems** (May 2015 to Currently)   
+Web and Software Developer  
