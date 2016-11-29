@@ -1,10 +1,17 @@
 ## Chetan Sanghani
 
-I am a determined individual who is quick to learn and dedicated about doing so.
+I am a determined individual who is quick to learn and dedicated about doing so. An example of this is that in one week, myself and a team of 3 other students learned a brand new web framework and delivered a project within one week.
 
 My strong foundation in programming and Git leaves me in a position to learn a new language at the tip of a hat, in 3 months I learned Ruby and JS to a functioning level, I did this with a solid and disciplined regime of 8 hours immersion at work and 2 hours of study after work every day.
 
-## Skills
+### Quotes
+
+This is a set of quotes other developers have made about me:
+
+- Determined.
+- Really helpful, generous, available, dedicated! Clearly has a passion for coding!
+- Fantastic person. Always willing to help. Comes up with new ideas non-stop. Good clean code.
+- Not afraid of ghosts.
 
 ### Overview
 
@@ -12,20 +19,18 @@ My strong foundation in programming and Git leaves me in a position to learn a n
 - Independent and Team experience in a small development environment.
 - Fluent in VoiceCode.io to a professional standard.
 - Knowledge of HTML, CSS, JS, Ruby and postgreSQL.
-- Knowledge of Wordpress, AngularJS, React and NodeJS, Sinatra, and Rails.
+- Knowledge of Wordpress, AngularJS, React, Meteor and NodeJS, Sinatra, and Rails.
+- Strong knowledge of Git and Heroku.
 - Strong foundation in Programming and Penetration Testing.
 - Competent in Unix systems including bash and SSH.
+- Majority of the knowledge I have is self gained out of interest and drive.
 
 While I may not have the specific skill set you require at the moment, given the chance I will learn. I have a versatile and shifting skill set, with the experience and drive to get things done.
 
-#### Another Skill
+### Community
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+One of the founding members of DerbyDevs IT
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -35,16 +40,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Sinatra, Javascript, Node.js, Angular.js, Meteor.
+- Rspec, Jasmine, Mocha, Chimp
 
 #### Highbury College (start_date to end_date)
 
-- Access to Biological and Biomedical Sciences - Pass
+- Access to Biological and Biomedical Sciences
 
 #### Joseph Wright College (September 2009 to July 2010)
 
-#### Any other qualifications
+- Software Design and Development ( Focus on computer mathematics and C++ )
 
 ## Experience
 
@@ -56,3 +61,13 @@ Worked as a video game streamer on Twitch.tv
 
 **Axess Systems** (May 2015 to Currently)   
 Web and Software Developer  
+
+**Free Lance** (On Going)
+I have had a variety of customers during my web development career and I can provide project links upon request (subject to NDAs).
+
+## Hobbies and Interests
+
+- I have been learning to code by voice only.
+- I'm a guitarist.
+- I have a serious interest in the InfoSec community.
+- Mechatronics is an area that I've been exploring.
