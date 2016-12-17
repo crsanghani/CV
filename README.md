@@ -1,18 +1,23 @@
 ## Chetan Sanghani
 
-I am a determined individual who is quick to learn and dedicated about doing so. An example of this is that in one week, myself and a team of 3 other students learned a brand new web framework and delivered a project within one week.
+<!-- Add something here about the mathematics, the sciences and why I joined makers -->
+
+
+ An example of this is that in one week, myself and a team of 3 other students learned a brand new web framework and delivered a project within one week.
 
 My strong foundation in programming and Git leaves me in a position to learn a new language at the tip of a hat, in 3 months I learned Ruby and JS to a functioning level, I did this with a solid and disciplined regime of 8 hours immersion at work and 2 hours of study after work every day.
 
-### Quotes
+### Recommendations
 
 This is a set of quotes other developers have made about me:
 
 - Determined.
 - Really helpful, generous, available, dedicated! Clearly has a passion for coding!
 - Fantastic person. Always willing to help. Comes up with new ideas non-stop. Good clean code.
+- Chet is always willing to learn and new technology.
+- Chet already has a huge amount knowledge of a lot of the tech from his experiences, and now Makers has given him the structure and team experience!
 - Not afraid of ghosts.
-
+<!-- speechmarks instead of dots-->
 ### Overview
 
 - I have achieved an Access to higher education foundation degree in Biological and Biomedical Sciences.
@@ -29,7 +34,9 @@ While I may not have the specific skill set you require at the moment, given the
 
 ### Community
 
-One of the founding members of DerbyDevs IT
+Founded DerbyDevs IT.
+
+DerbyDevs IT is a community of students that started on FreeCodeCamp, we meet monthly and work on projects to help us become more complete developers. This was a reaction to the lack of web focused meetups in the city. It is an encouraging and focused learning environment where the philosophy is that everyone has something to learn, and every one has something to teach.
 
 
 ## Education
