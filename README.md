@@ -1,9 +1,12 @@
 ## Chetan Sanghani
 
-<!-- Add something here about the mathematics, the sciences and why I joined makers -->
+I'm Chet, and I am obsessed with code. Nothing makes me happier than having a project to dive in to.
 
+I have a foundation degree in Biomedical Sciences, and a level 3 qualification in software development as well as being a Makers Academy Graduate.
 
- An example of this is that in one week, myself and a team of 3 other students learned a brand new web framework and delivered a project within one week.
+Makers teaches its students to be language agnostic, it sounds like a marketing term, but stick with me on this, all of their graduates are taught how to learn rather than being spoon fed their information.
+
+An example of this is that in one week, myself and a team of 3 other students learned a brand new web framework and delivered a project within our allocated time.
 
 My strong foundation in programming and Git leaves me in a position to learn a new language at the tip of a hat, in 3 months I learned Ruby and JS to a functioning level, I did this with a solid and disciplined regime of 8 hours immersion at work and 2 hours of study after work every day.
 
@@ -60,14 +63,24 @@ DerbyDevs IT is a community of students that started on FreeCodeCamp, we meet mo
 
 ## Experience
 
-**IBox Security** (start_date to end_date)    
-Software Developer
+**IBox Security** (01/09/2003 to 01/03/2014)    
+Softwar and Web Developer
+Maintaining and building client websites
+Wordpress
+Magento
+PHP
+MySQL
 
-**Self Employed** (start_date to end_date)
-Worked as a video game streamer on Twitch.tv
+**Self Employed** (01/04/2014 to 02/04/2015)
+Worked as a video game streamer on Twitch.tv streaming Dark Souls and Diablo 3
 
-**Axess Systems** (May 2015 to Currently)   
+**Axess Systems** (May 2015 to Dec 2016)   
 Web and Software Developer  
+
+Maintaining and developing the Webstore and main Website
+Analysing web traffic to generate leads
+Administrating the Salesforce installation
+
 
 **Free Lance** (On Going)
 I have had a variety of customers during my web development career and I can provide project links upon request (subject to NDAs).
