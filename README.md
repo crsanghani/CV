@@ -64,7 +64,7 @@ DerbyDevs IT is a community of students that started on FreeCodeCamp, we meet mo
 ## Experience
 
 **IBox Security** (01/09/2003 to 01/03/2014)    
-Softwar and Web Developer
+Software and Web Developer
 Maintaining and building client websites
 Wordpress
 Magento
